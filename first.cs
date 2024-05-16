@@ -1,0 +1,1 @@
+bool isCrazy=false;
